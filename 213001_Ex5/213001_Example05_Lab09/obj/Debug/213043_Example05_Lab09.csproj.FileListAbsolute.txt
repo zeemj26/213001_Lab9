@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\213043_Example05_Lab09\213043_Example05_Lab09\obj\Debug\213043_Example05_Lab09.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\213043_Example05_Lab09\213043_Example05_Lab09\obj\Debug\_213043_Example05_Lab09.Form1.resources
+C:\Users\HP\source\repos\213043_Example05_Lab09\213043_Example05_Lab09\obj\Debug\_213043_Example05_Lab09.Properties.Resources.resources
+C:\Users\HP\source\repos\213043_Example05_Lab09\213043_Example05_Lab09\obj\Debug\213043_Example05_Lab09.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\213043_Example05_Lab09\213043_Example05_Lab09\obj\Debug\213043_Example05_Lab09.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\213043_Example05_Lab09\213043_Example05_Lab09\bin\Debug\213043_Example05_Lab09.exe.config
+C:\Users\HP\source\repos\213043_Example05_Lab09\213043_Example05_Lab09\bin\Debug\213043_Example05_Lab09.exe
+C:\Users\HP\source\repos\213043_Example05_Lab09\213043_Example05_Lab09\bin\Debug\213043_Example05_Lab09.pdb
+C:\Users\HP\source\repos\213043_Example05_Lab09\213043_Example05_Lab09\obj\Debug\213043_Example05_Lab09.exe
+C:\Users\HP\source\repos\213043_Example05_Lab09\213043_Example05_Lab09\obj\Debug\213043_Example05_Lab09.pdb
